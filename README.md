@@ -83,3 +83,6 @@ Create DOM element generators
 Map weather codes to appropriate icons
 Format temperatures and other metrics
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/31434f3e-1204-41d5-a455-8a5c5ccd601a)
